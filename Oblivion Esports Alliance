@@ -1,0 +1,28 @@
+```yaml
+name: Oblivion Esports
+key: Oblivion
+color: violet
+emblem: Diamond_Star_04
+info:
+  logo: https://ibb.co/KWMpjc1
+  description: >
+  The **Oblivion Alliance** (OBL) is a newly created alliance. Founded on 23/9/19.
+  Due to differents in opinions and playstyle focus, We have left our previous family
+  with hopes in building solid and competitive clans. **STYX** is our alliance pride,
+  housing many experienced and semi competitive players. They can also be found on the 
+  Local International Top 100 leaderboards. We also have a state of the art discord server.
+  We are planning to max it at 6 clans since we prefer quality over quantity.
+  We all share a same passion for the game,we are friendly, always donate and to
+  help each other out with the same goal: to always improve our skills and have a great time!
+  We plan to make this alliance a *COMPETITIVE ALLIANCE* but we welcome *SEMI COMPETITIVE*
+  players too! We have people from all parts of the world! Join Oblivion and lets make history together!
+social:
+  - discord: https://discord.gg/VB9PFGs
+  - reddit: https://www.reddit.com/user/RomeoNesh96
+clans:
+  - name: S T Y X
+    tag: 9Y20CQ9Y
+  - name: Oblivion Esport
+    tag: YRUJ282P
+ ```  
+  
